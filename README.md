@@ -1,8 +1,11 @@
 # 🎯 FiveM Advanced Coordinate Copier Menu
 
-![License](https://img.shields.io/github/license/Raider/es-coords)
-![Release](https://img.shields.io/github/v/release/Raider/es-coords)
-![Issues](https://img.shields.io/github/issues/Raider/es-coords)
+[![YouTube Subscribe](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://youtu.be/iKb6hdepiBg?si=y_n2TzFzhxOvsLoe)
+[![Discord](https://img.shields.io/badge/Discord-Join-blue?style=for-the-badge&logo=discord)](https://discord.gg/EkwWvFS)
+[![Tebex Store](https://img.shields.io/badge/Tebex-Store-green?style=for-the-badge&logo=shopify)](https://eyestore.tebex.io/)
+
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Framework](https://img.shields.io/badge/Framework-Standalone-orange.svg)
 
 A modern and feature-rich coordinate management system for FiveM servers. This resource provides an elegant solution for saving, copying, and teleporting to coordinates with a beautiful UI.
 
@@ -20,7 +23,8 @@ A modern and feature-rich coordinate management system for FiveM servers. This r
 - 🔒 Secure NUI implementation
 
 ## 🖼️ Preview
-[Add your preview images/GIFs here]
+![image](https://github.com/user-attachments/assets/b0e34444-7b8e-4144-afc9-da8eb09f0fe0)
+
 
 ## 📥 Installation
 
@@ -77,19 +81,9 @@ The UI is fully customizable through CSS. Documentation coming soon.
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🔍 Keywords
 
 FiveM, coordinates, teleport, location manager, coordinate copier, FiveM script, FiveM resource, GTA5, coords menu, location saver, FiveM development tools, GTA5 coordinates, FiveM utilities, server management, admin tools
-
-## 📞 Support
-
-- Discord: [Your Discord]
-- Forum: [Your Forum Link]
-- Issues: [GitHub Issues]
 
 ## 🌟 Credits
 
