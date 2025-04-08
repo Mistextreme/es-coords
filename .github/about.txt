@@ -17,6 +17,6 @@
 • Admins
 • Content Creators
 
-🌐 Website: [Your Website]
-📦 Download: [Latest Release]
-💬 Discord: [Your Discord] 
+🌐 Website: https://eyestore.tebex.io/
+📦 Download: https://github.com/raiderss/es-coords/edit/main
+💬 Discord: https://discord.gg/EkwWvFS
