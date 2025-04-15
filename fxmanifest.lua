@@ -5,7 +5,7 @@ author "Raider#0101"
 description "Advanced Coordinate Management System for FiveM - Save, copy, and teleport with style!"
 version '1.0.0'
 
-repository 'https://github.com/Raider/es-coords'
+repository 'https://github.com/raiderss/es-coords'
 discord 'https://discord.com/invite/EkwWvFS'
 
 client_scripts { 
